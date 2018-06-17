@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cb218b-4d61-44a2-909c-a38c8f5504da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collections/_1_MutableImmutable.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collections/_2_Pair_Map.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Journey To Kotlin Syntax/META-INF/Journey To Kotlin Syntax.kotlin_module" afterPath="$PROJECT_DIR$/out/production/Journey To Kotlin Syntax/META-INF/Journey To Kotlin Syntax.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/high_level_function/_1_Interface_Lambda.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/high_level_function/_2_Lambdas.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/high_level_function/_3_Closure.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,6 +59,9 @@
         <option value="$PROJECT_DIR$/src/OOPS/_8_CompanionObject.kt" />
         <option value="$PROJECT_DIR$/src/collections/_2_Pair_Map.kt" />
         <option value="$PROJECT_DIR$/src/collections/_1_MutableImmutable.kt" />
+        <option value="$PROJECT_DIR$/src/high_level_function/_1_Interface_Lambda.kt" />
+        <option value="$PROJECT_DIR$/src/high_level_function/_2_Lambdas.kt" />
+        <option value="$PROJECT_DIR$/src/high_level_function/_3_Closure.kt" />
       </list>
     </option>
   </component>
@@ -111,6 +113,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Journey To Kotlin Syntax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Journey To Kotlin Syntax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="high_level_function" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -131,6 +151,7 @@
       <recent name="C:\Users\Ankit\IdeaProjects\Journey To Kotlin Syntax" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankit\IdeaProjects\Journey To Kotlin Syntax\src\high_level_function" />
       <recent name="C:\Users\Ankit\IdeaProjects\Journey To Kotlin Syntax\src\collections" />
       <recent name="C:\Users\Ankit\IdeaProjects\Journey To Kotlin Syntax\src\OOPS" />
       <recent name="C:\Users\Ankit\IdeaProjects\Journey To Kotlin Syntax\src\basics" />
@@ -633,6 +654,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/high_level_function/_3_Closure.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/high_level_function/_2_Lambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/high_level_function/_1_Interface_Lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
