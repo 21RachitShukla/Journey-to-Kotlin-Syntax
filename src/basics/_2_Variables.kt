@@ -30,4 +30,9 @@ fun main(args: Array<String>) {
     var marksdouble: Double
     marksfloat = 99.6f
     marksdouble = 99.6
+
+    // Casting
+
+    val int:Int="123".toInt()
+    println(int)
 }

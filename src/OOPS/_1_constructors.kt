@@ -28,6 +28,6 @@ class myClass constructor(var param1: String) {
     }
 
     fun fun1() {
-        //The param1 is parameter of constructor so it is not available here
+        // param1 will be available here since its a property
     }
 }

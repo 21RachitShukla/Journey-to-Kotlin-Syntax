@@ -32,7 +32,7 @@ fun main(args: Array<String>) {
 
     println("-----------------")
 
-    var myList = listOf<String>("Jennifer", "Aniston", "Winget", "Lawrence", "Lopez", "garner", "conelly") // Immutable
+    var myList = listOf<String>("Jennifers", "Aniston", "Winget", "Lawrence", "Lopez", "garner", "conelly") // Immutable
     for (i in 0..myList.size - 1)
         println("${myList[i]} ${myList.get(i)}")
 

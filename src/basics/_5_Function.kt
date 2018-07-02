@@ -5,6 +5,7 @@ package basics
  */
 
 fun main(args: Array<String>) {
+    println(high()("av"))
     val a = 2
     val b = 3
     println(add2(a, b))
@@ -38,4 +39,12 @@ fun global(l: (String) -> Unit): (Int, Int) -> (Int) {
     inner(l)
     fun add(a: Int, b: Int): Int = a + b //.....?
     return { a, b -> a + b }
+}
+
+// Inner functions
+fun high(): (String) -> String {
+    fun inner(i: String): String {
+        return "hello $i"
+    }
+    return ::inner
 }
